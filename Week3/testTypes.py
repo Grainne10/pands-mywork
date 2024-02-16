@@ -1,5 +1,5 @@
 # testTypes.py  
-# Create 5 variables of the different type
+# Create 5 variables of the different types
 # author Grainne Boyle
 
 i = 3
