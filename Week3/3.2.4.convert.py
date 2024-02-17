@@ -1,7 +1,6 @@
-# convert.py  
-# Program rounds a number
+## convert.py  
+# Program converts takes in a float number and returs that number in cents
 # author Grainne Boyle
-# calculation works but need to understand how to get rid of 0
 
 number = float(input("Enter a number: "))
 absoluteValue = abs(number*100)
