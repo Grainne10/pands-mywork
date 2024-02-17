@@ -1,4 +1,4 @@
-# sub.py  
+# 3.1.2.sub.py  
 # Program reads two numbers and subtracts one from the other
 # author Grainne Boyle
 
