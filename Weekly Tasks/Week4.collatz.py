@@ -6,5 +6,5 @@
 import math
 number = int(input("please enter a postive integer:"))
 if (number % 2) == 0: 
-    print (f"({number} * 2)")
-       
+    print (int(sum(number*2)))
+      
