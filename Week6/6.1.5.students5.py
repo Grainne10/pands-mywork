@@ -55,4 +55,4 @@ while(choice !='q'):
         doView(students)
     elif choice != 'q':
         print("\n\nplease select a,v or q")
-        choice=displayMenu()   
+    choice = displayMenu()
